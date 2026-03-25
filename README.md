@@ -79,7 +79,7 @@ This repository serves as the master portfolio for my **Data Analyst Internship*
 
 | Task | Repository |
 |------|------------|
-| Task 1 — Data Immersion & Wrangling | [🔗 View Repository](https://github.com/sathyak29/Retail-Sales-Analysis-Apexplanet-Internship/tree/main/Task-1_Data_Immersion_Wrang) |
+| Task 1 — Data Immersion & Wrangling | [🔗 View Repository](https://github.com/sathyak29/Retail-Sales-Analysis-Apexplanet-Internship/tree/main/Task-1_Data_Immersion_Wrangling) |
 | Task 2 — Exploratory Data Analysis (EDA) & Business Intelligence | [🔗 View Repository](https://github.com/sathyak29/Retail-Sales-Analysis-Apexplanet-Internship/tree/main/Task-2_Exploratory%20Data%20Analysis%20(EDA)%20%26%20Business%20Intelligence) |
 | Task 3 — Deep Dive Analysis & Interactive Dashboard | [🔗 View Repository](https://github.com/sathyak29/Retail-Sales-Analysis-Apexplanet-Internship/tree/main/Task-3_Deep_Dive_Analysis_Interactive_Dashboard) |
 | Task 4 — Data Storytelling & Statistical Validation | [🔗 View Repository](https://github.com/sathyak29/Retail-Sales-Analysis-Apexplanet-Internship/tree/main/Task-4_Datastorytelling%20%26%20Statistical%20Validation) |
