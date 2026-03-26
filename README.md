@@ -18,7 +18,7 @@ This repository serves as the master portfolio for my **Data Analyst Internship*
 | Task 2 | Exploratory Data Analysis (EDA) | Visual insights and summary statistics |
 | Task 3 | Data Visualization & Dashboarding | Interactive charts and dashboard |
 | Task 4 | Final Analysis & Reporting | End-to-end analysis report |
-| Task 5 | Capstone Integration & Portfolio Finalization |
+| Task 5 | Capstone Integration & Portfolio Finalization | Master Portfolio |
 ---
 
 ## 📊 Dataset Overview
